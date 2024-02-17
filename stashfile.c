@@ -15,5 +15,3 @@ new changes after stash
 >>>>>>> Stashed changes
 master added linwe
 matser added 2nd line
-b2 added kline
-b2 added 2nd line
