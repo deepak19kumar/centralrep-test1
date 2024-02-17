@@ -13,5 +13,10 @@ stash applying code
 =======
 new changes after stash
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 master added linwe
 matser added 2nd line
+=======
+b2 added line
+b2 adeed 2nd line
+>>>>>>> b2
