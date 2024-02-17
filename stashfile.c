@@ -14,3 +14,4 @@ stash applying code
 new changes after stash
 >>>>>>> Stashed changes
 b2 added line
+b2 adeed 2nd line
