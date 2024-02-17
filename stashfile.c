@@ -8,4 +8,8 @@ void main{
 
 }
 
+<<<<<<< Updated upstream
 stash applying code
+=======
+new changes after stash
+>>>>>>> Stashed changes
