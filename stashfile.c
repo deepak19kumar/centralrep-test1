@@ -13,3 +13,4 @@ stash applying code
 =======
 new changes after stash
 >>>>>>> Stashed changes
+b2 added line
